@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PreP3</string>
+    <string name="numero">Digite um número de 0 a 100</string>
+    <string name="mostra">Mostrar numeros primos</string>
+</resources>
